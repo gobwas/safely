@@ -1,7 +1,7 @@
 {
   "name": "safely",
   "version": "0.1.0",
-  "description": "Tool, that creates filenames for safe rewriting of target file",
+  "description": "Tool, that creates file names for safe rewriting of target file",
   "main": "index.js",
   "directories": {
     "test": "test"
