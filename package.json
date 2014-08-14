@@ -1,0 +1,35 @@
+{
+  "name": "safely",
+  "version": "0.1.0",
+  "description": "Tool, that creates filenames for safe rewriting of target file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gobwas/safely.git"
+  },
+  "keywords": [
+    "safe",
+    "file",
+    "filename",
+    "overwrite"
+  ],
+  "author": "Sergey Kamardin <gobwas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gobwas/safely/issues"
+  },
+  "homepage": "https://github.com/gobwas/safely",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "chai": "^1.9.1"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
