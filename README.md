@@ -13,12 +13,10 @@ npm install --save safely
 ## Example
 
 ```js
-
 	safely("path/to/my/file.ext", function(err, filepath) {
 	    // if given file is exists,
 	    // filepath will be path/to/my/file(1).ext
 	});
-
 ```
 
 ## API
